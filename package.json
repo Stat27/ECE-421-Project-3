@@ -1,0 +1,11 @@
+{
+  "name": "ece-421-project-3",
+  "version": "1.0.0",
+  "description": "connect4&toot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
